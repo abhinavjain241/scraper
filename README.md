@@ -46,3 +46,13 @@ $ ./start.sh
 ```
 
 All the files will get downloaded in the 'files' directory.
+
+##References
+
+I used the following resources to complete this particular task:
+
+\[1\]: http://scrapy.org/   
+\[2\]: https://github.com/scrapy/scrapy   
+\[3\]: http://stackoverflow.com/questions/26583611/scrapy-spiders-handling-non-html-links-pdfs-ppt-etc   
+\[4\]: http://doc.scrapy.org/en/latest/intro/tutorial.html   
+\[5\]: http://doc.scrapy.org/en/latest/topics/selectors.html#topics-selectors-relative-xpaths   
